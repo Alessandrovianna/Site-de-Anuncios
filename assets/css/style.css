@@ -1,0 +1,27 @@
+.foto_item {
+    width:150px;
+    height:200;
+    text-align:center;
+    margin-right:10px;
+    float: left;
+}
+.foto_item img {
+    width:150px;
+}
+
+.tela-login {
+    width:600px;
+     position: absolute;
+     top:30%;
+     left:50%;
+     transform:translate(-50%, -50%);
+}
+
+.topo {
+    background-color:#007bff;
+    border-color: #007bff;
+    
+}
+.aaa {
+    color:#FFF;
+}
